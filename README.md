@@ -15,9 +15,9 @@ Batangas State University, Alangilan Campus
 
 | Chapter |Aguila, Carl Michael & Solis John King Louises | 
 |---|---|
-| Ch1_2_3 | [link]() |
-| Ch4 | [link]() | 
-| Ch5 | [link]() | 
+| Ch1_2_3 | [link](https://colab.research.google.com/drive/1NRGjfqWyvwN59f9tkFbYMcpEFJu6EcHr?usp=sharing) |
+| Ch4 | [link](https://colab.research.google.com/drive/1IswrPRlqrb6R4PHdbww1L5Hcy0nMJnRV?usp=sharing) | 
+| Ch5 | [link](https://colab.research.google.com/drive/1K7LKp3KNuxQ5TPIDdS83HA8-XPq2gxaA?usp=sharing) | 
 | Ch6 | [link]() | 
 | Ch7 | [link]() | 
 | Ch8 | [link]() | 
