@@ -8,20 +8,20 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Surname, First Name | | |
-| Surname, First Name | | |
+| Aguila, Carl Michael |23-05482| MEXE- 4102 |
+| Solis, John King Louies | | MEXE 4102 |
 
 ## Notebook links
 
-| Chapter | Member 1 | Member 2 |
-|---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+| Chapter |Aguila, Carl Michael & Solis John King Louises | 
+|---|---|
+| Ch1_2_3 | [link]() |
+| Ch4 | [link]() | 
+| Ch5 | [link]() | 
+| Ch6 | [link]() | 
+| Ch7 | [link]() | 
+| Ch8 | [link]() | 
+| Ch9 | [link]() |
 
 ## What we learned
 
