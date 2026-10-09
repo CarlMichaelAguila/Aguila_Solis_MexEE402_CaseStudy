@@ -1,8 +1,8 @@
 # MexEE 402: Data Preprocessing Case Study
 
-MexEE Elective 2: Data Science and Machine Learning
-Batangas State University, Alangilan Campus
-1st Semester, AY 2026-2027
+# MexEE Elective 2: Data Science and Machine Learning
+# Batangas State University, Alangilan Campus
+# 1st Semester, AY 2026-2027
 
 ## Members
 
@@ -20,7 +20,7 @@ Batangas State University, Alangilan Campus
 | Ch5 | [link](https://colab.research.google.com/drive/1K7LKp3KNuxQ5TPIDdS83HA8-XPq2gxaA?usp=sharing) | 
 | Ch6 | [link](https://colab.research.google.com/drive/1XFHDCh2x3favgJYNl81uoDcc1kr6hE0D?usp=sharing) | 
 | Ch7 | [link](https://colab.research.google.com/drive/1AXL6tuo9lMvIj4i5rrF-KUocznB1hDv6?usp=sharing) | 
-| Ch8 | [link]() | 
+| Ch8 | [link](https://colab.research.google.com/drive/14ypR8IXPuT_4UUOtXS3w-zgWjcYgo9UZ?usp=sharing) | 
 | Ch9 | [link](https://colab.research.google.com/drive/1JXfN5HHaz9lI8hTPUjt-yjca5kjAv5ik?usp=sharing) |
 
 ## What we learned
