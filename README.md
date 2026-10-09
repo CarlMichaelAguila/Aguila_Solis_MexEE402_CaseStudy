@@ -13,7 +13,7 @@ Batangas State University, Alangilan Campus
 
 ## Notebook links
 
-| Chapter |Aguila, Carl Michael & Solis John King Louises | 
+| Chapter |Aguila, Carl Michael & Solis John King Louies | 
 |---|---|
 | Ch1_2_3 | [link](https://colab.research.google.com/drive/1NRGjfqWyvwN59f9tkFbYMcpEFJu6EcHr?usp=sharing) |
 | Ch4 | [link](https://colab.research.google.com/drive/1IswrPRlqrb6R4PHdbww1L5Hcy0nMJnRV?usp=sharing) | 
