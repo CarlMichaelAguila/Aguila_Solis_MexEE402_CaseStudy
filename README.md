@@ -9,7 +9,7 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Aguila, Carl Michael |23-05482| MEXE- 4102 |
-| Solis, John King Louies | | MEXE 4102 |
+| Solis, John King Louies |23-02601| MEXE 4102 |
 
 ## Notebook links
 
