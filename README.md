@@ -24,8 +24,33 @@
 | Ch9 | [link](https://colab.research.google.com/drive/1JXfN5HHaz9lI8hTPUjt-yjca5kjAv5ik?usp=sharing) |
 
 ## What we learned
+**Chapter 1, 2, and 3 – Data Exploration and Cleaning**
 
-  In Chapters 1–3, we learned how to explore and understand a dataset using pandas, where head(), info(), and describe() help us check the data, understand its structure, and view its statistics. What surprised us was that missing values and unnecessary columns can affect how we understand and analyze the data. In Chapter 4, we learned that feature engineering makes data more useful by creating new features, grouping numerical values into categories, and encoding categorical data. What surprised us was that simple changes, like calculating lemonade sold per degree of temperature, can reveal relationships that are not obvious from the original data. In Chapter 5, we learned that preprocessing includes scaling values to make features comparable and identifying outliers that may affect analysis, and we were surprised by how numerical ranges and unusual values can influence results. In Chapter 6, we learned that outliers are values that differ greatly from most of the data and that different methods can detect and handle them, but removing them is not always the best choice because it can cause information loss. In Chapter 7, we learned that feature selection identifies the most useful features for predictions, and we were surprised that keeping every feature is not always better because irrelevant features can reduce a model’s accuracy. In Chapter 8, we learned how preprocessing pipelines combine steps like filling missing values and scaling numerical data into one organized process, and we were surprised that automation can make data preparation more consistent and reduce mistakes. Finally, in Chapter 9, we learned how to apply preprocessing techniques to a real-world Titanic dataset, including handling missing values, scaling numbers, encoding categories, and grouping ages. What surprised us was how many steps are needed to prepare raw data properly before it can be used for analysis or machine learning.
+We learned how to examine a dataset, understand its columns, and check for missing or incorrect values before analyzing it. We understood that looking at the data first is important because problems in the dataset can affect our results. What surprised us was that even a dataset with many rows can still contain missing information that needs to be handled carefully.
+
+**Chapter 4 – Feature Engineering**
+
+We learned how to make existing data more useful by creating new features, grouping numerical values into categories, and converting categorical information into a format that can be analyzed. What surprised us was that simple changes to the data can reveal patterns and relationships that were not obvious before.
+
+**Chapter 5 – Data Preprocessing and Scaling**
+
+We learned that numerical features may have different ranges and that scaling can help make them more comparable. We also learned that unusual values can influence data analysis. What surprised us was that the range of a feature can affect how a model interprets the data, even when the values themselves are correct.
+
+**Chapter 6 – Outlier Detection and Handling**
+
+We learned that outliers are values that differ significantly from most observations and that methods such as Z-score and the IQR can help identify them. What surprised us was that different detection methods may identify different outliers, and removing unusual values is not always the right choice because they may contain important information.
+
+**Chapter 7 – Feature Selection**
+
+We learned that choosing relevant features can help simplify a dataset and improve a model's predictions. We understood that more features do not always mean better results, especially when some features provide little useful information. What surprised us was that selecting the right features can be just as important as choosing the model itself.
+
+**Chapter 8 – Preprocessing Pipelines**
+
+We learned how to combine preprocessing steps, such as handling missing values and scaling numerical features, into a single organized workflow. What surprised us was that putting these steps together can make the process more consistent and reduce repeated work, but we still need to make sure the pipeline includes all the features we intend to process.
+
+**Chapter 9 – Titanic Dataset Preprocessing**
+
+We learned how to apply preprocessing techniques to a real dataset by handling missing values, encoding categorical features, scaling numerical data, and grouping ages into categories. What surprised us was how many decisions are needed to prepare real-world data and how the order of preprocessing steps can affect the final results.
 
 ## Errors we found
 # Chapter 1, 2, & 3 — Data preprocessing and cleaning
